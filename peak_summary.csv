@@ -1,0 +1,3 @@
+scan_direction,peak_type,potential_V,current_uA
+forward,anodic_candidate,0.4799999999999998,17.50086245762408
+reverse,cathodic_candidate,0.1160000000000001,-8.085578960258962
